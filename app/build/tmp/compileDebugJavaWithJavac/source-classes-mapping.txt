@@ -1,0 +1,2 @@
+ru/season6/android_academy_music_player/BuildConfig.java
+ ru.season6.android_academy_music_player.BuildConfig
