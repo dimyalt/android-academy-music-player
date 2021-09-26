@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">android-academy-music-player</string>
+    <string name="fragment_splash">Fragment splash</string>
+    <string name="your_login">Ваш логин</string>
+    <string name="login">Авторизация</string>
+    <string name="registration_registration">Регистрация</string>
+    <string name="login_registration">На регистрацию</string>
+    <string name="main_screen">Главный экран</string>
+    <string name="login_fragment">Фрагмент авторизации</string>
+    <string name="main_fragment">Фрагмент главного окна</string>
+    <string name="registration_fragment">Фрагмент регистрации</string>
+</resources>
